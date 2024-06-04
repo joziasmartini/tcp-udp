@@ -1,0 +1,15 @@
+{
+  "name": "tcp-udp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tcp-server": "node TCP/tcp-server.js",
+    "tcp-client": "node TCP/tcp-client.js",
+    "udp-server": "node UDP/udp-server.js",
+    "udp-client": "node UDP/udp-client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
